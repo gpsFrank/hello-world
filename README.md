@@ -1,2 +1,6 @@
 # hello-world
-Frank's test repository
+
+Hello,
+
+I am learning how to use github.
+So far so good.
